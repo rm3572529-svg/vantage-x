@@ -1,0 +1,13 @@
+{
+  "name": "Vantage X — Cloud Media Hosting",
+  "short_name": "Vantage X",
+  "description": "Premium cloud media hosting and smart sharing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "icons": [
+    { "src": "/favicon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/favicon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
